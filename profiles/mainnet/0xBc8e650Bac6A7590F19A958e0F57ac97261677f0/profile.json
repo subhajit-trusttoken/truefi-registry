@@ -1,0 +1,21 @@
+{
+  "name": "Kbit",
+  "address": "0xBc8e650Bac6A7590F19A958e0F57ac97261677f0",
+  "website": "https://www.kbit.com/",
+  "description": "Kbit is a leader in cryptocurrency high frequency trading and trade roughly 2% of global cryptocurrency volume every day.  They trade crypto on global exchanges 24/7 via a globally distributed computational platform.",
+  "logoURI": "",
+  "explorer": "https://etherscan.io/address/0xBc8e650Bac6A7590F19A958e0F57ac97261677f0/",
+  "status": "active",
+  "github": "",
+  "forumPost": "https://forum.truefi.io/t/kbit-global-borrowing-request/459",
+  "socials": {
+    "twitter" : {
+      "url": "https://twitter.com/etolson",
+      "handle": ""
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/company/kbitllc/about/",
+      "handle": ""
+    }
+  }
+}
